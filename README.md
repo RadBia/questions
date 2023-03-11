@@ -1,6 +1,12 @@
 # questions
 
-Celem tego projektu jest przygotowanie gry w quiz, w wersji webowej. Użytkownik wybiera interesującą go kategorię pytań, jak również ich poziom trudności. Na tej podstawie program generuje dla gracza zestaw zadań. Każde z zadań jest prezentowane użytkownikowi na ekranie przeglądarki, a jego odpowiedzi są zapisywane. Po zadaniu wszystkich zadań z zestawu, gra dobiega końca, a gracz widzi zdobyty przez siebie wynik.
+The purpose of this project is to create the web version of a quiz game. The user selects the category of questions that interests him, as well as their level of difficulty. Based on this, the program generates a set of tasks for the player. Each task is presented to the user on the screen, and his answers are saved. After all the tasks in the set have been asked, the game comes to an end, and the player sees the score he has earned.
 
 
-Technologie użyte w tym projekcie to Java, Spring Framework, Spring Boot, Maven, H2 Database Engine, Thymeleaf i Bootstrap.
+#### Technologies used for this project:
+* Java
+* Spring Framework
+* Spring Boot
+* Maven
+* H2 Database Engine
+* Bootstrap
